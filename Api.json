@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "image_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "title": "The Art of Fine Dining: A Journey Through Flavors",
+      "author": "Fine Dining",
+      "published_at": "2024-06-01T08:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "title": "Top 10 Must-Try Dishes at Our Restaurant This Season",
+      "author": "Chef's Pick",
+      "published_at": "2024-06-02T09:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=800",
+      "title": "Freshly Made Pasta: The Secret Behind Every Bite",
+      "author": "Pasta Corner",
+      "published_at": "2024-06-03T10:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800",
+      "title": "Our Signature Burger Has Won the City's Best Award",
+      "author": "Grill House",
+      "published_at": "2024-06-04T11:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=800",
+      "title": "Sushi Night Every Friday: Fresh Rolls, Bold Flavors",
+      "author": "Sushi Bar",
+      "published_at": "2024-06-05T12:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
+      "title": "Premium Steaks: Aged to Perfection in Our Kitchen",
+      "author": "Steak House",
+      "published_at": "2024-06-06T13:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "title": "Wood-Fired Pizza Night: A Taste of Authentic Italy",
+      "author": "Pizza Garden",
+      "published_at": "2024-06-07T14:00:00"
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "title": "Slow-Cooked BBQ Ribs: Tender, Smoky and Irresistible",
+      "author": "BBQ Station",
+      "published_at": "2024-06-08T15:00:00"
+    }
+  ]
+}
